@@ -1,0 +1,30 @@
+Qn1: WHAT IS A COMPUTER?
+Ans: An electronic machine that operates on input data and renders some output, which is capable of making
+complex tasks simple and accurate.
+
+Qn2: WHAT IS RAM?
+Ans: RAM stands for Random Access Memory which is considered to be the Primary memory of the Computer. It's 
+a non-volatile, fast and semi-conductor memory. It's directly connected to the Computer Processor through the data bus.
+
+Qn3: WHERE IS DATA STORED IN A COMPUTER?
+Ans: In a computer, data can be stored as a:
+        (i) Volatile memory: called the secondary memory which is usually made of Magnetic disks. They can hold large data.
+        (ii) Non-volatile memory: called the primary/main memory which is usually made of Semi-conductor technology. It 
+        generally contains less memory as compared to the Secondary memory.
+            Additionally, to improve the processing speed and efficiency, frequently accessed data will be stored in the cache 
+        memory that offers much better speed and accessibility to the computer processor.
+    
+Qn4: WHAT IS THE INPUT DEVICE USED TO TYPE TEXT AND NUMBERS ON A DOCUMENT IN THE COMPUTER SYSTEM?
+Ans: Keyboard.
+
+Qn5: WHAT ARE THE OUTPUT DEVICES?
+Ans: Monitor, Speaker, Projector, Printer, etc.
+
+Qn6: WHAT IS THE INPUT DEVICE THAT ALLOWS USER TO MOVE THE CURSOR OR POINTER ON THE SCREEN?
+Ans: Mouse.
+
+Qn7: WHICH LANGUAGE IS DIRECTLY UNDERSTOOD BY THE COMPUTER WITHOUT A TRANSLATION PROGRAM?
+Ans: Machine language which comprises of only 1s and 0s.
+
+Qn8: WHAT ARE INPUT DEVICES?
+Ans: Keyboard, Mouse, Joystick, etc.
